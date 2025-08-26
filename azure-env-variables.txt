@@ -1,9 +1,0 @@
-# Environment Variables for Azure Deployment
-# Add these to your Azure Web App Configuration -> Application settings
-
-MONGO_URI=mongodb+srv://votingsystem:zpC3Y8bB6ZOP9Z00@arkadev.prmhb.mongodb.net/?retryWrites=true&w=majority&appName=arkadev
-MONGO_DATABASE=notemedb
-
-# Optional: You can also add these for better production configuration
-# SPRING_PROFILES_ACTIVE=prod
-# SERVER_PORT=8080
